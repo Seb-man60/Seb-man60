@@ -1,19 +1,3 @@
-# List of projects by programming language
----
-## PowerShell
-- 
+Welcome on my personal GitHub page !
 
-## Python
--
-
-## C
-- [AES-128 Encryption](https://github.com/Seb-man60/AES-128-Encryption)
-
-## C++
--
-
-## C#
--
-
-## JAVA
--
+Here you can find [my projects](https://github.com/Seb-man60/main/blob/main/README.md)
