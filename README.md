@@ -1,16 +1,19 @@
-### Hi there 👋
+# List of projects by programming language
+---
+## PowerShell
+- 
 
-<!--
-**Seb-man60/Seb-man60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python
+-
 
-Here are some ideas to get you started:
+## C
+- [AES-128 Encryption](https://github.com/Seb-man60/AES-128-Encryption)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## C++
+-
+
+## C#
+-
+
+## JAVA
+-
